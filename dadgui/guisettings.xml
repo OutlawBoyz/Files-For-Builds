@@ -33,9 +33,9 @@
     <setting id="masterlock.maxretries" default="true">3</setting>
     <setting id="lookandfeel.startupaction" default="true">0</setting>
     <setting id="lookandfeel.startupwindow" default="true">10000</setting>
-    <setting id="window.width">1920</setting>
-    <setting id="window.height">1012</setting>
-    <setting id="videolibrary.updateonstartup" default="true">false</setting>
+    <setting id="window.width">1860</setting>
+    <setting id="window.height">884</setting>
+    <setting id="videolibrary.updateonstartup">true</setting>
     <setting id="videolibrary.backgroundupdate" default="true">false</setting>
     <setting id="musiclibrary.updateonstartup" default="true">false</setting>
     <setting id="musiclibrary.backgroundupdate" default="true">false</setting>
@@ -60,8 +60,8 @@
     <setting id="myvideos.replacelabels" default="true">true</setting>
     <setting id="videolibrary.showallitems" default="true">true</setting>
     <setting id="videolibrary.showunwatchedplots" default="true">0,1,2</setting>
-    <setting id="videolibrary.groupmoviesets" default="true">false</setting>
-    <setting id="videolibrary.groupsingleitemsets" default="true">false</setting>
+    <setting id="videolibrary.groupmoviesets">true</setting>
+    <setting id="videolibrary.groupsingleitemsets">true</setting>
     <setting id="myvideos.flatten" default="true">false</setting>
     <setting id="videolibrary.flattentvshows" default="true">1</setting>
     <setting id="videolibrary.showemptytvshows" default="true">true</setting>
@@ -187,7 +187,7 @@
     <setting id="pvrmanager.startgroupchannelnumbersfromone" default="true">false</setting>
     <setting id="pvrmenu.displaychannelinfo" default="true">5</setting>
     <setting id="pvrmenu.closechannelosdonswitch" default="true">true</setting>
-    <setting id="pvrmenu.iconpath" default="true" />
+    <setting id="pvrmenu.iconpath">C:\Users\patru\</setting>
     <setting id="epg.pastdaystodisplay" default="true">1</setting>
     <setting id="epg.futuredaystodisplay">7</setting>
     <setting id="epg.selectaction" default="true">2</setting>
@@ -349,7 +349,7 @@
     </audio>
     <resolutions />
     <general>
-        <systemtotaluptime>1923</systemtotaluptime>
+        <systemtotaluptime>5102</systemtotaluptime>
         <settinglevel>3</settinglevel>
         <eventlog>
             <level>0</level>
