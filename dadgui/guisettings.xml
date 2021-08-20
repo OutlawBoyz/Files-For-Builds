@@ -7,7 +7,7 @@
     <setting id="lookandfeel.skin">skin.aeon.nox.silvo</setting>
     <setting id="lookandfeel.skintheme" default="true">SKINDEFAULT</setting>
     <setting id="lookandfeel.skincolors" default="true">SKINDEFAULT</setting>
-    <setting id="lookandfeel.font">Play Regular</setting>
+    <setting id="lookandfeel.font" default="true">Default</setting>
     <setting id="lookandfeel.skinzoom" default="true">0</setting>
     <setting id="lookandfeel.stereostrength" default="true">5</setting>
     <setting id="lookandfeel.enablerssfeeds" default="true">false</setting>
@@ -349,7 +349,7 @@
     </audio>
     <resolutions />
     <general>
-        <systemtotaluptime>5181</systemtotaluptime>
+        <systemtotaluptime>5254</systemtotaluptime>
         <settinglevel>3</settinglevel>
         <eventlog>
             <level>0</level>
