@@ -349,8 +349,8 @@
     </audio>
     <resolutions />
     <general>
-        <systemtotaluptime>926</systemtotaluptime>
-        <settinglevel>1</settinglevel>
+        <systemtotaluptime>985</systemtotaluptime>
+        <settinglevel>3</settinglevel>
         <eventlog>
             <level>0</level>
             <showhigherlevels>true</showhigherlevels>
