@@ -35,7 +35,7 @@
     <setting id="lookandfeel.startupwindow" default="true">10000</setting>
     <setting id="window.width">1920</setting>
     <setting id="window.height">1012</setting>
-    <setting id="videolibrary.updateonstartup" default="true">false</setting>
+    <setting id="videolibrary.updateonstartup">true</setting>
     <setting id="videolibrary.backgroundupdate" default="true">false</setting>
     <setting id="musiclibrary.updateonstartup" default="true">false</setting>
     <setting id="musiclibrary.backgroundupdate" default="true">false</setting>
@@ -50,8 +50,8 @@
     <setting id="filelists.ignorethewhensorting" default="true">true</setting>
     <setting id="filelists.showextensions" default="true">true</setting>
     <setting id="filelists.showaddsourcebuttons" default="true">true</setting>
-    <setting id="filelists.showhidden" default="true">false</setting>
-    <setting id="filelists.allowfiledeletion" default="true">false</setting>
+    <setting id="filelists.showhidden">true</setting>
+    <setting id="filelists.allowfiledeletion">true</setting>
     <setting id="myvideos.selectaction" default="true">1</setting>
     <setting id="myvideos.usetags" default="true">false</setting>
     <setting id="myvideos.extractflags" default="true">true</setting>
@@ -106,7 +106,7 @@
     <setting id="pictures.usetags" default="true">true</setting>
     <setting id="pictures.generatethumbs" default="true">true</setting>
     <setting id="pictures.showvideos" default="true">true</setting>
-    <setting id="pictures.displayresolution" default="true">14</setting>
+    <setting id="pictures.displayresolution">15</setting>
     <setting id="scrapers.moviesdefault" default="true">metadata.themoviedb.org.python</setting>
     <setting id="scrapers.tvshowsdefault" default="true">metadata.tvshows.themoviedb.org.python</setting>
     <setting id="scrapers.musicvideosdefault" default="true">metadata.local</setting>
@@ -179,7 +179,7 @@
     <setting id="accessibility.audiovisual" default="true">false</setting>
     <setting id="accessibility.audiohearing" default="true">false</setting>
     <setting id="accessibility.subhearing" default="true">false</setting>
-    <setting id="pvrmanager.preselectplayingchannel" default="true">false</setting>
+    <setting id="pvrmanager.preselectplayingchannel">true</setting>
     <setting id="pvrmanager.syncchannelgroups" default="true">true</setting>
     <setting id="pvrmanager.backendchannelorder" default="true">true</setting>
     <setting id="pvrmanager.usebackendchannelnumbersalways" default="true">false</setting>
@@ -224,7 +224,7 @@
     <setting id="pvrtimers.hidedisabledtimers" default="true">false</setting>
     <setting id="services.devicename" default="true">Kodi</setting>
     <setting id="services.zeroconf" default="true">false</setting>
-    <setting id="services.deviceuuid">8114a4f4-ec16-4703-b57d-96487475ea5d</setting>
+    <setting id="services.deviceuuid">c41cda66-b939-4ee7-ab65-0a83eb99660c</setting>
     <setting id="services.webserver" default="true">false</setting>
     <setting id="services.webserverport" default="true">8080</setting>
     <setting id="services.webserverauthentication" default="true">true</setting>
@@ -266,7 +266,7 @@
     <setting id="videoscreen.delayrefreshchange" default="true">0</setting>
     <setting id="videoscreen.dither" default="true">false</setting>
     <setting id="videoscreen.ditherdepth" default="true">8</setting>
-    <setting id="videoscreen.cmsenabled" default="true">false</setting>
+    <setting id="videoscreen.cmsenabled">true</setting>
     <setting id="videoscreen.cmsmode" default="true">0</setting>
     <setting id="videoscreen.cms3dlut" default="true" />
     <setting id="videoscreen.displayprofile" default="true" />
@@ -296,7 +296,7 @@
     <setting id="audiooutput.guisoundmode" default="true">1</setting>
     <setting id="lookandfeel.soundskin" default="true">resource.uisounds.kodi</setting>
     <setting id="audiooutput.passthrough" default="true">false</setting>
-    <setting id="audiooutput.passthroughdevice" default="true">DIRECTSOUND:default</setting>
+    <setting id="audiooutput.passthroughdevice">DIRECTSOUND:{0EF2D524-C316-425D-B197-A8DA0BF93906}</setting>
     <setting id="audiooutput.ac3passthrough" default="true">true</setting>
     <setting id="audiooutput.ac3transcode" default="true">false</setting>
     <setting id="audiooutput.eac3passthrough" default="true">false</setting>
@@ -323,7 +323,7 @@
     <setting id="general.addonupdates" default="true">0</setting>
     <setting id="general.addonnotifications" default="true">false</setting>
     <setting id="addons.unknownsources">true</setting>
-    <setting id="addons.updatemode" default="true">0</setting>
+    <setting id="addons.updatemode">1</setting>
     <setting id="debug.showloginfo" default="true">false</setting>
     <setting id="debug.extralogging" default="true">false</setting>
     <setting id="debug.setextraloglevel" default="true" />
@@ -349,7 +349,7 @@
     </audio>
     <resolutions />
     <general>
-        <systemtotaluptime>1535</systemtotaluptime>
+        <systemtotaluptime>2227</systemtotaluptime>
         <settinglevel>3</settinglevel>
         <eventlog>
             <level>0</level>
@@ -447,10 +447,10 @@
             <sortattributes>0</sortattributes>
         </pictures>
         <programs>
-            <viewmode>720896</viewmode>
+            <viewmode>65586</viewmode>
             <sortmethod>1</sortmethod>
             <sortorder>1</sortorder>
-            <sortattributes>0</sortattributes>
+            <sortattributes>1</sortattributes>
         </programs>
         <videofiles>
             <viewmode>720896</viewmode>
